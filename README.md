@@ -1,8 +1,12 @@
 # Maptime Boulder: Pub Map
 
+Gretchen Peterson's Map:
 ![EndResult](https://github.com/PetersonGIS/Maptime-Boulder-Pub-Map/blob/master/images/FinalMapSmall.jpg)
 
-This is a tutorial for making a historic pub map with QGIS using data from Geofabrik (OpenStreetMap), UK Data Service, Ordnance Survey, and a historic pubs point dataset created for this tutorial. This tutorial is also available as a [live demo presentation, presented at FOSS4GNA 2015](https://www.youtube.com/watch?v=lCFbMPP_1xQ). 
+Chris Luhring's Map:
+![EndResult](https://github.com/cluhring/Maptime-Boulder-QGIS-Pub-Map/blob/master/Pubs_o_London.pdf)
+
+This is a tutorial for making a historic pub map with QGIS using data from Geofabrik (OpenStreetMap), UK Data Service, Ordnance Survey, and a historic pubs point dataset created for this tutorial. This tutorial is also available as a [live demo presentation, presented at FOSS4GNA 2015](https://www.youtube.com/watch?v=lCFbMPP_1xQ).
 
 ### Download and install QGIS
 
@@ -122,10 +126,3 @@ A lot of the layout options are available on the right-hand side of the print co
 + Change the paper and quality to ansi a for a regular US letter size
 + Click the add new map button on the left and click and drag a rectangle where you want the map to go. If you have some extra time, before doing this you could set up some guides so that the rectangle is even on all sides. Make the map cover most of the page, leaving a small border.
 + Use the add text button to add a title at the top at an angle and at the bottom.
-
-
-
-
-
-
-
