@@ -209,7 +209,7 @@
       </symbol>
     </Composition>
   </Composer>
-  <Composer title="4" visible="1">
+  <Composer title="4" visible="0">
     <Composition gridVisible="0" printResolution="300" paperWidth="279.4" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" snapTolerancePixels="5" numPages="1" paperHeight="215.9" smartGuides="1" printAsRaster="0" generateWorldFile="0">
       <symbol alpha="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -230,6 +230,52 @@
         <Extent ymin="179632.22638482376351021" xmin="530894.36303360713645816" ymax="181932.89529445153311826" xmax="533909.80286661442369223"/>
         <LayerSet/>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationFont=".Helvetica Neue DeskInterface,13,-1,5,50,0,0,0,0,0" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{7d5b64ec-1835-4b11-927a-f51734086cf4}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="area"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
         <ComposerItem pagey="4" page="1" id="" lastValidViewScaleFactor="2.0381" positionMode="0" positionLock="false" x="4" y="4" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="270" outlineWidth="0.3" excludeFromExports="0" uuid="{f694a25a-5df6-4058-933a-fcf425d2b9ed}" height="206" itemRotation="0" frame="false" pagex="4">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -238,7 +284,7 @@
       </ComposerMap>
     </Composition>
   </Composer>
-  <Composer title="5" visible="1">
+  <Composer title="5" visible="0">
     <Composition gridVisible="0" printResolution="300" paperWidth="279.4" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" snapTolerancePixels="5" numPages="1" paperHeight="215.9" smartGuides="1" printAsRaster="0" generateWorldFile="0">
       <symbol alpha="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -258,7 +304,7 @@
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Made by Chris Luhring following Gretchen Peterson's QGIS Tutorial (https://github.com/PetersonGIS/Maptime-Boulder-Pub-Map), 8/20/2015&#xa;Data from Ordnance Survey, OpenStreetMap, UK Census, and PetersonGIS github HistoricPubs&#xa;The purpose of this map is to practice QGIS cartographic capabilities&#xa;This map is not complete nor does it claim to be accurate" htmlState="0" halign="1">
         <LabelFont description=".Helvetica Neue DeskInterface,10,-1,5,50,0,0,0,0,0"/>
         <FontColor red="252" blue="182" green="235"/>
-        <ComposerItem pagey="181.678" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="14.663" y="181.678" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="162.008" outlineWidth="0.3" excludeFromExports="0" uuid="{f06e2356-90b5-467a-9343-bf4906c6ff43}" height="20.7427" itemRotation="0" frame="false" pagex="14.663">
+        <ComposerItem pagey="181.678" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="14.663" y="181.678" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="162.008" outlineWidth="0.3" excludeFromExports="0" uuid="{f06e2356-90b5-467a-9343-bf4906c6ff43}" height="20.7427" itemRotation="0" frame="false" pagex="14.663">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
         </ComposerItem>
@@ -266,7 +312,7 @@
       <ComposerLabel valign="128" marginX="1" marginY="1" labelText="Pubs of London's&#xa;Square Mile" htmlState="0" halign="1">
         <LabelFont description="Heiti TC,36,-1,5,50,0,0,0,0,0"/>
         <FontColor red="252" blue="182" green="235"/>
-        <ComposerItem pagey="42.176" page="1" id="" lastValidViewScaleFactor="-1" positionMode="4" positionLock="false" x="22.9655" y="42.176" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="83.039" outlineWidth="0.3" excludeFromExports="0" uuid="{e3b59ab0-fcc2-4a33-bdda-90e35440514f}" height="48.288" itemRotation="334" frame="false" pagex="22.9655">
+        <ComposerItem pagey="42.176" page="1" id="" lastValidViewScaleFactor="-1" positionMode="4" positionLock="false" x="22.9655" y="42.176" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="83.039" outlineWidth="0.3" excludeFromExports="0" uuid="{e3b59ab0-fcc2-4a33-bdda-90e35440514f}" height="48.288" itemRotation="334" frame="false" pagex="22.9655">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
         </ComposerItem>
@@ -289,7 +335,7 @@
         </ComposerItem>
       </ComposerScaleBar>
       <ComposerMap mapRotation="0" keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="180183.33961250225547701" xmin="530883.12851962528657168" ymax="182481.58071921282680705" xmax="533898.56835263257380575"/>
+        <Extent ymin="180183.33961250225547701" xmin="530883.12851962528657168" ymax="182481.58143288202700205" xmax="533898.56835263257380575"/>
         <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="120,192,168,255" show="1" bottomAnnotationPosition="1" annotationFont="Helvetica,9,-1,5,75,0,0,0,0,0" annotationPrecision="1" showAnnotation="1" topFrameDivisions="0" uuid="{f7ab4462-ca0f-4faf-9ea4-6082bae98b5d}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="94,65,47,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="94,65,47,255" frameFillColor2="240,168,48,255" crossLength="3" gridFramePenThickness="2" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="1" rightAnnotationPosition="1" gridFrameWidth="1" name="Grid 1" annotationFormat="3" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="2">
@@ -347,9 +393,9 @@
     </Composition>
   </Composer>
   <projectlayers layercount="4">
-    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>OldPubs20150820125045964</id>
-      <datasource>../Turing/Projects/GIS_Practice_Pubs2/GeoJSON-HistoricPubs/OldPubs.geojson</datasource>
+      <datasource>./GeoJSON-HistoricPubs/OldPubs.geojson</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -399,7 +445,7 @@
               <prop k="angle" v="290"/>
               <prop k="color" v="#fcebb6"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="../Turing/Projects/GIS_Practice_Pubs2/images/dart2.svg"/>
+              <prop k="name" v="./images/dart2.svg"/>
               <prop k="offset" v="5,0"/>
               <prop k="offset_map_unit_scale" v="0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -614,7 +660,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>SquareMile20150820125733959</id>
-      <datasource>../Turing/Projects/GIS_Practice_Pubs2/SquareMile.shp</datasource>
+      <datasource>./SquareMile.shp</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -874,7 +920,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>buildings20150820125034949</id>
-      <datasource>../Turing/Projects/GIS_Practice_Pubs2/data/buildings.shp</datasource>
+      <datasource>./data/buildings.shp</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -1122,7 +1168,7 @@
     </maplayer>
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>dlua_regions20150820125031723</id>
-      <datasource>../Turing/Projects/GIS_Practice_Pubs2/data/dlua_regions.shp</datasource>
+      <datasource>./data/dlua_regions.shp</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
