@@ -3,6 +3,8 @@
 Chris Luhring's Map:
 ![EndResult](https://github.com/cluhring/Maptime-Boulder-QGIS-Pub-Map/blob/master/London_Pubs.jpg)
 
+["Gretchen Peterson QGIS Tutorial"](https://github.com/PetersonGIS/Maptime-Boulder-Pub-Map)
+
 Gretchen Peterson's Map:
 ![EndResult](https://github.com/PetersonGIS/Maptime-Boulder-Pub-Map/blob/master/images/FinalMapSmall.jpg)
 
